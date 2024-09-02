@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+#user-img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+#user-info {
+  margin-top: 20px;
+}
